@@ -1,4 +1,4 @@
-package com.lwh.mybatisgenerator;
+package com.zw.mybatisgenerator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
