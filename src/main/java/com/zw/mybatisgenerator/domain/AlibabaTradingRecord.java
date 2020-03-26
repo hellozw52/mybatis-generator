@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 public class AlibabaTradingRecord implements Serializable {
+
     private Integer id;
 
     private String userId;
